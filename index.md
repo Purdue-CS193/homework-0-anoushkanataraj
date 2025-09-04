@@ -25,6 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Anoushka Nataraj's First CS193 Homework 
+- I like that it's a once a week class
+- I like that it can be useful to take with CS 180
+- I like that it is not as big of a class as most lectures
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
